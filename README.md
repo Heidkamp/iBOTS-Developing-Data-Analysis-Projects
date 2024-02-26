@@ -1,5 +1,7 @@
 ## iBOTS Workshop: Developing Neuroscience Data Analysis Projects with Python, Git, and Snakemake
 
+This is Leon
+
 As neuroscience evolves with increasingly large data sets, complex analyses, and bigger teams, building robust, reproducible, and scalable analysis workflows becomes essential in order to develop large computational science projects and keep them sustainable over time. 
 
 In this workshop, you will gain hands-on experience in crafting modular code scripts and command-line tools for efficient data processing, and how to cleanly combine them into a complete analysis pipeline, using Python’s snakemake package. We will explore tools such as Conda package manager to ensure consistent computational environments, vital for sharing code and ensuring computational reproducibility, and Git and GitHub for collaborating and sharing code across teams.
